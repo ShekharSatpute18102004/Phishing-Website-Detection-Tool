@@ -74,7 +74,7 @@ phishing-website-tool/
 ### 🚀 How to Run the Project
 1. Clone the repository:
 ```
-git clone https://github.com/your-username/phishing-website-tool.git
+https://github.com/ShekharSatpute18102004/Phishing-Website-Detection-Tool.git
 cd phishing-website-tool
 ```
 2. Install dependencies:
