@@ -88,6 +88,13 @@ python app.py
 4. Access the tool:
 Open your browser and navigate to http://127.0.0.1:5000/
 
+## 📸 Screenshots
+
+### Suspicious (No HTTPS) 
+<img width="959" alt="phishing img" src="https://github.com/user-attachments/assets/b5032496-bf02-4337-a8b0-4d629828d3be" />
+
+### Legitimate (Safe)
+<img width="959" alt="legmiate img" src="https://github.com/user-attachments/assets/2bdd35b0-095d-47ec-b4f6-8619a7ec71ce" />
 
 ## 📄 License
 MIT License - feel free to use and adapt!
